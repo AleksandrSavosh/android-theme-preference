@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Settings theme</string>
+    <string translatable="false" name="pref_theme_key">pref_theme_key</string>
+
+    <string name="_red">red</string>
+    <string name="_pink">pink</string>
+    <string name="_purple">purple</string>
+    <string name="_deep_purple">deep purple</string>
+    <string name="_indigo">indigo</string>
+    <string name="_blue">blue</string>
+    <string name="_light_blue">light blue</string>
+    <string name="_cyan">cyan</string>
+    <string name="_teal">teal</string>
+    <string name="_green">green</string>
+    <string name="_light_green">light green</string>
+    <string name="_lime">lime</string>
+    <string name="_yellow">yellow</string>
+    <string name="_amber">amber</string>
+    <string name="_orange">orange</string>
+    <string name="_deep_orange">deep orange</string>
+    <string name="_brown">brown</string>
+    <string name="_grey">grey</string>
+    <string name="_blue_grey">blue grey</string>
+    <string name="_black">black</string>
+    <string name="_white">white</string>
+
+</resources>
