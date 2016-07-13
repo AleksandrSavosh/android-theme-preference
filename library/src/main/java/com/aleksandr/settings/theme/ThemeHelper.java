@@ -26,6 +26,7 @@ public class ThemeHelper {
             stringColorPrimaryMap.put(context.getString(R.string._purple),      ContextCompat.getColor(context, R.color.md_purple_500));
             stringColorPrimaryMap.put(context.getString(R.string._deep_purple), ContextCompat.getColor(context, R.color.md_deep_purple_500));
             stringColorPrimaryMap.put(context.getString(R.string._indigo),      ContextCompat.getColor(context, R.color.md_indigo_500));
+            stringColorPrimaryMap.put(context.getString(R.string._blue),        ContextCompat.getColor(context, R.color.md_blue_500));
             stringColorPrimaryMap.put(context.getString(R.string._light_blue),  ContextCompat.getColor(context, R.color.md_light_blue_500));
             stringColorPrimaryMap.put(context.getString(R.string._cyan),        ContextCompat.getColor(context, R.color.md_cyan_500));
             stringColorPrimaryMap.put(context.getString(R.string._teal),        ContextCompat.getColor(context, R.color.md_teal_500));
@@ -51,6 +52,7 @@ public class ThemeHelper {
             stringColorAccentMap.put(context.getString(R.string._purple),      ContextCompat.getColor(context, R.color.md_purple_A400));
             stringColorAccentMap.put(context.getString(R.string._deep_purple), ContextCompat.getColor(context, R.color.md_deep_purple_A400));
             stringColorAccentMap.put(context.getString(R.string._indigo),      ContextCompat.getColor(context, R.color.md_indigo_A400));
+            stringColorAccentMap.put(context.getString(R.string._blue),        ContextCompat.getColor(context, R.color.md_blue_A400));
             stringColorAccentMap.put(context.getString(R.string._light_blue),  ContextCompat.getColor(context, R.color.md_light_blue_A400));
             stringColorAccentMap.put(context.getString(R.string._cyan),        ContextCompat.getColor(context, R.color.md_cyan_A400));
             stringColorAccentMap.put(context.getString(R.string._teal),        ContextCompat.getColor(context, R.color.md_teal_A400));
